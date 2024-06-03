@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/utkarsh das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh das" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-das-4291a7269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-das-4291a7269/" height="30" width="40" /></a>
 <a href="https://instagram.com/_.baronyx._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.baronyx._" height="30" width="40" /></a>
 </p>
 
